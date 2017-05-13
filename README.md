@@ -70,6 +70,7 @@ Tools, software and services to create a fast MVP, useful for Hackathons.
 - [Mobile Angular UI](http://mobileangularui.com)
 - [Framework7](http://framework7.io)
 - [Phonon](http://phonon.quarkdev.com)
+- [Weex](http://weex-project.io/guide)
 
 ## Icons
 - [icomoon](https://icomoon.io)
@@ -92,6 +93,7 @@ Tools, software and services to create a fast MVP, useful for Hackathons.
 
 ## Scaffolding tools
 - [Yeoman](http://yeoman.io)
+- [manifoldjs](http://manifoldjs.com)
 - [Initializr](http://www.initializr.com)
 
 ## Static Website generator
