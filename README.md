@@ -38,6 +38,7 @@ Tools, software and services to create a fast MVP, useful for Hackahtons.
 - [App.js](http://code.kik.com/app/3/index.html)
 - [Mobile Angular UI](http://mobileangularui.com/)
 - [Framework7](http://framework7.io)
+- [Phonon](http://phonon.quarkdev.com/)
 
 ## Icons
 - [icomoon](https://icomoon.io)
