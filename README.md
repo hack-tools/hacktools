@@ -2,6 +2,8 @@
 
 > Tools, software and services to create a fast MVP, useful for Hackathons.
 
+---
+
 **Table of Contents**
   * [CMS](#cms)
   * [Code repository](#code-repository)
@@ -19,6 +21,7 @@
   * [Scaffolding tools](#scaffolding-tools)
   * [Static Website generator](#static-website-generator)
 
+---
 
 ## CMS
 - [Drupal](https://www.drupal.org)
