@@ -1,7 +1,7 @@
 # HackTools
 Tools, software and services to create a fast MVP, useful for Hackathons.
 
-* Table of Contents
+*Table of Contents*
   * [CMS](#cms)
   * [Code repository](#code-repository)
   * [Collaboration](#collaboration)
