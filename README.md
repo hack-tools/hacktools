@@ -1,16 +1,18 @@
 # HackTools
-Tools, software and services to create a fast MVP, useful for Hackahtons.
+Tools, software and services to create a fast MVP, useful for Hackathons.
 
 ## CMS
 - [Drupal](https://www.drupal.org)
 
 ## Code repository
-- GitHub (what else?!)
+- [GitHub](https://github.com)
 
 ## Collaboration
- - Google Drive
- - Trello
- - Slack
+ - [Google Drive](https://drive.google.com/)
+ - [Trello](https://trello.com/)
+ - [Slack](https://slack.com/)
+ - [HuBoard](https://huboard.com/)
+ - [ZenHub](https://www.zenhub.com/)
 
 ## Desktop App Frameworks
 - [Electron](https://electron.atom.io)
@@ -23,6 +25,12 @@ Tools, software and services to create a fast MVP, useful for Hackahtons.
 - [Heroku](https://www.heroku.com)
 - [OpenShift](https://www.openshift.com)
 - [Pagoda Box](http://pagodabox.io/)
+- [Nanobox](https://nanobox.io/)
+
+## Hosting Drupal Paas (Free\* for dev websites)
+- [Pantheon.io](https://pantheon.io/)
+- [Acquia.com](https://www.acquia.com/)
+- [Platform.sh](https://platform.sh/)
 
 ## HTML5 templates
 - [Bootstrap](http://getbootstrap.com/) (also https://startbootstrap.com)
