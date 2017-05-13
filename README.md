@@ -1,6 +1,24 @@
 # HackTools
 Tools, software and services to create a fast MVP, useful for Hackathons.
 
+* Table of Contents
+  * [CMS](#cms)
+  * [Code repository](#code-repository)
+  * [Collaboration](#collaboration)
+  * [Desktop App Frameworks](#desktop-app-frameworks)
+  * [Fonts](#fonts)
+  * [Hosting (Free*)](#hosting-free)
+  * [Hosting Drupal Paas (Free* for dev websites)](#hosting-drupal-paas-free-for-dev-websites)
+  * [HTML5 templates](#html5-templates)
+  * [Hybrid Mobile App Frameworks](#hybrid-mobile-app-frameworks)
+  * [Icons](#icons)
+  * [Images](#images)
+  * [Local Development server](#local-development-server)
+  * [Localhost tunnel](#localhost-tunnel)
+  * [Scaffolding tools](#scaffolding-tools)
+  * [Static Website generator](#static-website-generator)
+
+
 ## CMS
 - [Drupal](https://www.drupal.org)
 
@@ -67,7 +85,7 @@ Tools, software and services to create a fast MVP, useful for Hackathons.
 - [ngrok](https://ngrok.com)
 - [localtunnel.me](https://localtunnel.me)
 
-## (Web) Scaffolding tools
+## Scaffolding tools
 - [Yeoman](http://yeoman.io/)
 
 ## Static Website generator
