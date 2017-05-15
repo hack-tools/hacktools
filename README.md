@@ -1,4 +1,4 @@
-<img src="hacktools_logo.png" alt="logo" align="right">
+<a href="/"><img src="hacktools_logo.png" alt="logo" align="right"></a>
 
 # HackTools
 
