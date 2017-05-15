@@ -1,4 +1,4 @@
-<a href="/"><img src="hacktools_logo.png" alt="logo" align="right"></a>
+<a href="https://hack-tools.github.io/"><img src="hacktools_logo.png" alt="logo" align="right"></a>
 
 # HackTools
 
