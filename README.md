@@ -2,7 +2,7 @@
 
 # HackTools
 
-Tools, software and services to create a fast MVP, useful for Hackathons.
+Tools, software and services to create a fast MVP, useful for Hackathon attendees.
 
 ---
 
