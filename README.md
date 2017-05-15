@@ -57,7 +57,7 @@ Tools, software and services to create a fast MVP, useful for Hackathon attendee
 - [Platform.sh](https://platform.sh)
 
 ## HTML5 templates
-- [Bootstrap](http://getbootstrap.com) (also https://startbootstrap.com)
+- [Bootstrap](http://getbootstrap.com) (also [startbootstrap.com](https://startbootstrap.com))
 - [Zurb Foundation](http://foundation.zurb.com)
 - [HTML5 Boilerplate](https://html5boilerplate.com)
 
