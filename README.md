@@ -105,5 +105,6 @@ Tools, software and services to create a fast MVP, useful for Hackathon attendee
 
 ## Helpful resourses
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)
+- [Mobile Frameworks Comparison Chart](http://mobile-frameworks-comparison-chart.com/)
 
 <p></p>
