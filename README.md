@@ -1,8 +1,11 @@
+<p></p>
 <a href="https://hack-tools.github.io/"><img src="hacktools_logo.png" alt="logo" align="right"></a>
 
 # HackTools
 
 Tools, software and services to create a fast MVP, useful for Hackathon attendees.
+
+[edit](https://github.com/hack-tools/hacktools/edit/master/README.md)
 
 ---
 
@@ -22,6 +25,7 @@ Tools, software and services to create a fast MVP, useful for Hackathon attendee
   * [Localhost tunnel](#localhost-tunnel)
   * [Scaffolding tools](#scaffolding-tools)
   * [Static Website generator](#static-website-generator)
+  * [Helpful resourses](#helpful-resourses)
 
 ---
 
@@ -54,7 +58,6 @@ Tools, software and services to create a fast MVP, useful for Hackathon attendee
 ## Hosting Drupal Paas (Free\* for dev websites)
 - [Pantheon.io](https://pantheon.io)
 - [Acquia.com](https://www.acquia.com)
-- [Platform.sh](https://platform.sh)
 
 ## HTML5 templates
 - [Bootstrap](http://getbootstrap.com) (also [startbootstrap.com](https://startbootstrap.com))
@@ -99,3 +102,8 @@ Tools, software and services to create a fast MVP, useful for Hackathon attendee
 ## Static Website generator
 - [Jekyll](http://jekyllrb.com)
 - [Hexo](https://hexo.io)
+
+## Helpful resourses
+- [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)
+
+<p></p>
