@@ -84,7 +84,7 @@ Tools, software and services to create a fast MVP, useful for Hackathon attendee
 ## Images
 - [lorempixel](http://lorempixel.com)
 - [placehold.it](https://placehold.it)
-- [Thestock.im](http://thestocks.im)
+- [Thestocks.im](http://thestocks.im)
 
 ## Local Development server
 - [Virtualbox](https://www.virtualbox.org)
