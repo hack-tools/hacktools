@@ -105,6 +105,8 @@ Tools, software and services to create a fast MVP, useful for Hackathon attendee
 
 ## Helpful resourses
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)
+- [Awesome-Selfhosted](https://github.com/Kickball/awesome-selfhosted)
+- [Stack on a budget](https://github.com/255kb/stack-on-a-budget)
 - [Mobile Frameworks Comparison Chart](http://mobile-frameworks-comparison-chart.com/)
 
 <p></p>
