@@ -103,6 +103,7 @@ Tools, software and services to create a fast MVP, useful for Hackathon attendee
 ## Static Website generator
 - [Jekyll](http://jekyllrb.com)
 - [Hexo](https://hexo.io)
+- See [staticsitegenerators.net](https://staticsitegenerators.net) and [staticgen.com](https://www.staticgen.com)
 
 ## Helpful resourses
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)
