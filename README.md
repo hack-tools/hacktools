@@ -99,6 +99,7 @@ Tools, software and services to create a fast MVP, useful for Hackathon attendee
 - [Yeoman](http://yeoman.io)
 - [manifoldjs](http://manifoldjs.com)
 - [Initializr](http://www.initializr.com)
+- [brunch](http://brunch.io)
 
 ## Static Website generator
 - [Jekyll](http://jekyllrb.com)
