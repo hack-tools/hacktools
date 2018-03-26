@@ -14,6 +14,7 @@ Tools, software and services to create a fast MVP, useful for Hackathon attendee
   * [Code repository](#code-repository)
   * [Collaboration](#collaboration)
   * [Desktop App Frameworks](#desktop-app-frameworks)
+  * [Domains (free)](#domains)
   * [Fonts](#fonts)
   * [Hosting (Free*)](#hosting-free)
   * [Hosting Drupal Paas (Free* for dev websites)](#hosting-drupal-paas-free-for-dev-websites)
@@ -45,6 +46,13 @@ Tools, software and services to create a fast MVP, useful for Hackathon attendee
 ## Desktop App Frameworks
 - [Electron](https://electron.atom.io)
 - [NW.js](https://nwjs.io)
+
+## Domains - Public DNS
+- [Freenom.com](http://www.freenom.com/en/)
+- [Noip.com](https://www.noip.com/)
+- [freedns.zone](https://freedns.zone/en/)
+- [freedns.afraid.org](https://freedns.afraid.org/)
+- [Google Public DNS](https://developers.google.com/speed/public-dns/)
 
 ## Fonts
 - [Google Fonts](https://fonts.google.com)
