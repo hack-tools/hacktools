@@ -73,6 +73,7 @@ Tools, software and services to create a fast MVP, useful for Hackathon attendee
 - [HTML5 Boilerplate](https://html5boilerplate.com)
 
 ## Hybrid Mobile App Frameworks
+- [jasonette](http://jasonette.com/)
 - [Apache Cordova](https://cordova.apache.org)
 - [Ionic](http://ionicframework.com)
 - [Phonegap](http://phonegap.com)
