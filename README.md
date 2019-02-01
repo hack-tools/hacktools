@@ -52,13 +52,15 @@ Tools, software and services to create a fast MVP, useful for Hackathon attendee
 - [Noip.com](https://www.noip.com/)
 - [freedns.zone](https://freedns.zone/en/)
 - [freedns.afraid.org](https://freedns.afraid.org/)
-- [Google Public DNS](https://developers.google.com/speed/public-dns/)
 
 ## Fonts
 - [Google Fonts](https://fonts.google.com)
 
 ## Hosting (Free\*)
+- [Netlify](https://www.netlify.com)
+- [GitHub pages](https://pages.github.com)
 - [Heroku](https://www.heroku.com)
+- [Firebase](https://firebase.google.com)
 - [OpenShift](https://www.openshift.com)
 - [Pagoda Box](http://pagodabox.io)
 - [Nanobox](https://nanobox.io)
