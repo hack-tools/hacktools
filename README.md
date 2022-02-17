@@ -48,7 +48,7 @@ Tools, software and services to create a fast MVP, useful for Hackathon attendee
 - [NW.js](https://nwjs.io)
 
 ## Domains - Public DNS
-- [Freenom.com](http://www.freenom.com/en/)
+- [Freenom.com](http://www.freenom.com/)
 - [Noip.com](https://www.noip.com/)
 - [freedns.zone](https://freedns.zone/en/)
 - [freedns.afraid.org](https://freedns.afraid.org/)
@@ -67,15 +67,14 @@ Tools, software and services to create a fast MVP, useful for Hackathon attendee
 - [Surge](https://surge.sh)
 - [Render](https://render.com)
 - [Tiny Host](https://tiiny.host)
-- [Fast](https://fast.io)
 
 ## Hosting Drupal Paas (Free\* for dev websites)
 - [Pantheon.io](https://pantheon.io)
 - [Acquia.com](https://www.acquia.com)
 
 ## HTML5 templates
-- [Bootstrap](http://getbootstrap.com) (also [startbootstrap.com](https://startbootstrap.com))
-- [Zurb Foundation](http://foundation.zurb.com)
+- [Bootstrap](http://getbootstrap.com)
+- [Zurb Foundation](https://get.foundation)
 - [HTML5 Boilerplate](https://html5boilerplate.com)
 
 ## Hybrid Mobile App Frameworks
@@ -119,7 +118,7 @@ Tools, software and services to create a fast MVP, useful for Hackathon attendee
 ## Static Website generator
 - [Jekyll](http://jekyllrb.com)
 - [Hexo](https://hexo.io)
-- See [staticsitegenerators.net](https://staticsitegenerators.net) and [staticgen.com](https://www.staticgen.com)
+- See [jamstack.org/generators](https://jamstack.org/generators)
 
 ## Helpful resourses
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)
