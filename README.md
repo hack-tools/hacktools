@@ -5,8 +5,17 @@
 
 Tools, software and services to create a fast MVP, useful for Hackathon attendees.
 
-[edit](https://github.com/hack-tools/hacktools/edit/master/README.md)
+[edit]# 🦝 Raccoon Security Lab - Karawang
 
+> Fork dari HackTools, di-custom buat lab cybersecurity gua. Monitoring 24/7 kayak startup SCBD.
+
+### 🟢 LIVE STATUS - Lab Gua Jalan Terus!
+👉 **https://royan-abdullah.checkly-status-page.com**
+
+![Status](https://img.shields.io/badge/Uptime-100%25-brightgreen) ![From](https://img.shields.io/badge/From-Karawang-orange)
+
+
+# HackTools (Original
 ---
 
 **Table of Contents**
@@ -122,8 +131,8 @@ Tools, software and services to create a fast MVP, useful for Hackathon attendee
 
 ## Helpful resourses
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)
-- [Awesome-Selfhosted](https://github.com/Kickball/awesome-selfhosted)
-- [Stack on a budget](https://github.com/255kb/stack-on-a-budget)
+- [Awesome-Selfhosted](https://github.com/Kickball/awesoe-selfhosted)
+- [Stack on a budget](https:/
 - [Mobile Frameworks Comparison Chart](http://mobile-frameworks-comparison-chart.com/)
 
 <p></p>
